@@ -24,12 +24,12 @@ Excel/CSV  – Data source files
 KPI cards showcasing Total Sales, Revenue, and Growth
 <br>Trend analysis over time (monthly/quarterly sales)
 <br>Product-wise and region-wise performance comparison
-<br>Interactive slicers and filters (e.g., by region, product category)
+<br>Interactive slicers and filters (e.g., outlet size, outlet type, outlet location type)
 <br>Visual breakdowns like bar charts, line charts, and pie charts
 <br>Clean, user-friendly interface for stakeholder presentations
 
 6. Screenshot:<br>
-Here's how the dashboard looks:
+Here's how the dashboard looks: https://github.com/APPIKONDAKUMARSAI/Blinkit_Sales_Dashboard/blob/main/blink.png
 
    
 
