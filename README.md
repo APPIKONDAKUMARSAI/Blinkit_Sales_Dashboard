@@ -7,7 +7,7 @@
 <br>In the fast-paced world of quick commerce, every minute matters — and so does every data point.
 <br>This project analyzes Blinkit’s retail performance data to uncover insights about sales trends, outlet performance, product categories, and customer preferences. The interactive dashboard provides a 360° view of <br>business health, helping stakeholders make smarter, data-driven decisions.
 <br>From total sales and ratings to outlet tiers and fat content preferences, this dashboard transforms raw retail data into actionable business intelligence.
-4. Tech Stack
+4. Tech Stack <br>
 Power BI – Data visualization & dashboard creation
 
 Power Query – Data transformation & cleaning
