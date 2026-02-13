@@ -2,12 +2,9 @@
 
 1. Project Title - Blinkit Sales Performance Dashboard
 
-2. Blinkit Retail Analytics Dashboard – Sales & Outlet Performance Insights
-
-3. Short Description
-<br>
+2. Short Description
+ 
 In the fast-paced world of quick commerce, every minute matters — and so does every data point.
-
 This project analyzes Blinkit’s retail performance data to uncover insights about sales trends, outlet performance, product categories, and customer preferences. The interactive dashboard provides a 360° view of business health, helping stakeholders make smarter, data-driven decisions.
 
 From total sales and ratings to outlet tiers and fat content preferences, this dashboard transforms raw retail data into actionable business intelligence.
