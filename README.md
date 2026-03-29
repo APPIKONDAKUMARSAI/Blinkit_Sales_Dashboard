@@ -30,6 +30,67 @@ KPI cards showcasing Total Sales, Revenue, and Growth
 
 6. Screenshot:<br>
 Here's how the dashboard looks: https://github.com/APPIKONDAKUMARSAI/Blinkit_Sales_Dashboard/blob/main/blink.png
+--------------------------------------------------------------------------------------------------------------------------
+Insights from Blinkit Data Analysis using python
+1. Data Overview
+Dataset contains product, outlet, pricing, and sales-related features.
+No duplicate records found.
+Missing values were identified in columns like item weight and outlet size and handled appropriately.
+2. Missing Value Handling
+Missing values were cleaned to ensure consistency.
+This step improved reliability of further analysis.
+
+Clean data ensured accurate aggregation and comparison across products and outlets.
+
+3. Fat Content Analysis
+Low-fat products generated higher overall sales compared to regular items.
+
+Customers show stronger preference toward low-fat products → demand is health-influenced.
+
+4. Outlet Establishment Year Analysis
+Highest sales observed for outlets established in 1998.
+Followed by 2017 and 2010.
+Lowest sales observed in 2011.
+
+
+Older outlets tend to perform better → likely due to brand trust and customer base.
+
+5. Product Performance (Business Requirement 1)
+Identified high-sales vs low-sales items.
+Dead inventory detected (low sales despite availability).
+
+
+
+High-performing items → should be promoted
+Low-performing items → reposition or reduce stock
+Dead inventory → inefficient resource usage
+6. Dead Inventory Analysis
+Products with low sales despite visibility identified.
+
+
+Stock is not aligned with demand → leads to wastage and reduced efficiency.
+
+7. Low-Sales Item Detection
+Certain products consistently show low sales.
+
+
+These items may require:
+
+pricing changes
+better placement
+or removal
+8. Outlet Performance (Business Requirement 2)
+Sales compared across outlet types, sizes, and location tiers.
+
+
+
+Not all outlets perform equally
+Performance depends more on location and demand than size
+9. Fat Content vs Outlet Sales
+Sales distribution varies across outlet types based on fat content.
+
+
+Certain outlets perform better with specific product types → demand segmentation exists
 
    
 
